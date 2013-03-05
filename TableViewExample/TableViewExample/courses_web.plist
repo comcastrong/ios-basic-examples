@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>STuff Here</key>
+	<string>New things</string>
+	<key>Exc</key>
+	<string>Exciting, right?</string>
+	<key>CS101</key>
+	<string>Various</string>
+	<key>CS301</key>
+	<string>Murat</string>
+	<key>CS102</key>
+	<string>Ju</string>
+	<key>CS202</key>
+	<string>Bicakci</string>
+	<key>Huh?</key>
+	<string>Ozbayoglu</string>
+	<key>CS532</key>
+	<string>Dogdu</string>
+	<key>CS400</key>
+	<string>Kadioglu</string>
+	<key>CS300</key>
+	<string>Various</string>
+	<key>CS200</key>
+	<string>Eren</string>
+	<key>CS100</key>
+	<string>Baykal</string>
+</dict>
+</plist>
